@@ -1,0 +1,5 @@
+Generations: 45
+Alive cells: 3
+4 17
+4 18
+4 19
