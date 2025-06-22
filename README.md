@@ -1,7 +1,9 @@
 # Conway's Game of Life 🧬
 
 A C++ implementation of **Conway’s Game of Life**, simulating the evolution of cellular automata based on simple rules. This was built as part of my academic development to explore algorithms, grid manipulation, and terminal-based visualisation.
-
+<p align="center">
+  <img src="game-of-life.gif" alt="Game of Life" >
+</p>
 ## 📌 What is the Game of Life?
 
 The Game of Life is a zero-player game devised by mathematician **John Conway**. It consists of a grid of cells that evolve over discrete time steps according to a set of rules based on the states of neighbouring cells.
